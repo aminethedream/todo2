@@ -1,2 +1,5 @@
+Name: Amine TheDream
+Color: Indigo
+
 Name: Hannah Nordgren
 Color: Blue
